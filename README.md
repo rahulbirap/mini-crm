@@ -144,7 +144,7 @@ npm run dev
 
 ## GitHub Repository
 
-[Add your repository link here]
+https://github.com/rahulbirap/mini-crm
 
 ## License
 
